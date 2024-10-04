@@ -1,0 +1,10 @@
+# Ignorar todas las imágenes en la carpeta img
+img/*
+
+# Ignorar todos los tipos de imágenes en el proyecto
+*.jpg
+*.png
+*.gif
+*.jpeg
+*.bmp
+*.tiff
