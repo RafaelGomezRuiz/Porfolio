@@ -458,6 +458,11 @@ body{
     font-size: 3rem;
 }
 .proyecto__descripcion{
+    height: 8.5rem;
+    font-size: 1.6rem;
+    text-align: left;
+}
+.proyecto__tecnologia{
     font-size: 1.6rem;
     text-align: left;
 }
